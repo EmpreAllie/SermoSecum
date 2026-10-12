@@ -16,7 +16,7 @@ class AppColors(
 
 val lightColors = AppColors(
     primaryBackground = Color(0xFFF4F5F9),
-    secondaryBackground = Color(0xFFF1F5F9),
+    secondaryBackground = Color(0xFFEEEEEE),
     primaryButton = Color(0xFFCBD5E1),
     sendButton = Color(0xFF5C6AC4),
     outline = Color(0xFFCBD5E1),
