@@ -72,8 +72,8 @@ fun MainScreen(
                 modifier = Modifier
                     .fillMaxWidth()
                     .border(1.dp, AppTheme.colors.outline)
-                    .padding(horizontal = 10.dp, vertical = 6.dp)
-                    .align(Alignment.CenterHorizontally)
+                    .padding(horizontal = 10.dp, vertical = 5.dp),
+                verticalAlignment = Alignment.CenterVertically
             ) {
 
                 AppTextField(
